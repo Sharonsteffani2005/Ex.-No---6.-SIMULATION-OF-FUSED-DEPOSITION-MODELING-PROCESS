@@ -21,6 +21,7 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/e05c97f8-b035-4e4d-86e8-f91a73aa95a8)
 
 ## Output:
+## BASE:
 ![Screenshot 2023-11-25 083830](https://github.com/Sharonsteffani2005/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/144979934/f5aa81f7-5075-4564-8d0c-a4eabf1d2f41)
 ## FOAM BASE:
 It is a material for adhesion parameters. Foam 3D printing is more sustainable and resource-efficient than conventional foam construction. Inorganic foams are more environmentral friendly and safe print materials than organic foams.
