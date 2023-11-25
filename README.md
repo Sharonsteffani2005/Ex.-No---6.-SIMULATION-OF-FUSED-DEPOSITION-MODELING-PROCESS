@@ -51,6 +51,7 @@ Filament is a key material in Fused Deposition Modeling (FDM) 3D printing. It is
 ## START PROCESS:
 ![Screenshot 2023-11-25 093237](https://github.com/Sharonsteffani2005/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/144979934/ae502cfe-e30d-426c-8c4d-fad4af5a6360)
 
+## STOP PROCESS:
 ![Screenshot 2023-11-25 093320](https://github.com/Sharonsteffani2005/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/144979934/b7190eca-f87e-484a-bcb0-4ffa93b24763)
 
 
